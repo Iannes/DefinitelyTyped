@@ -8,7 +8,7 @@
         "baseUrl": "../",
         "typeRoots": ["../"],
         "jsx": "react",
-        "types": ["types"],
+        "types": [],
         "noEmit": true,
         "forceConsistentCasingInFileNames": true,
         "strictFunctionTypes": false
